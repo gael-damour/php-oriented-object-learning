@@ -1,4 +1,4 @@
-01 - First Class
+02 - First Class
 ============================
 
 Constructor exists by default but it's empty.
