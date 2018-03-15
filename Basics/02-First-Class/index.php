@@ -9,10 +9,10 @@ $harry = new Character("Harry");
 $merlin->attack($harry);
 
 if ($harry->isDead()) {
-    echo 'Harry est mort :(';
+    echo 'Harry is dead :(';
 } else {
     // Call a property of $harry object
-    echo 'Harry a survécu avec ' . $harry->life . ' points de vie ! \o/';
+    echo 'Harry survived with ' . $harry->life . ' life points ! \o/';
 }
 
 // Dump the objects to view the states.
