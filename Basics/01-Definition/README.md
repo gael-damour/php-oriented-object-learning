@@ -18,6 +18,6 @@ $object is the instantiation of class Class.
 
 An object has properties (characteristics) and methods (functionalities).
 
-[Next chapter - First Class](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/03-Scope) ->
+[Next chapter - First Class](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/02-First-Class) ->
 
 [Back to summary of basics](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics)
