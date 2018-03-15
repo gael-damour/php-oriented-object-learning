@@ -1,0 +1,10 @@
+#01 - The basics
+1. Definition [x]
+2. First class [ ]
+3. Scope [ ]
+4. Example [ ]
+5. PHPDocs [ ]
+6. Property and Methods Statics [ ]
+7. Inheritance and Example [ ]
+8. Autoloading [ ]
+9. Namespaces [ ]
