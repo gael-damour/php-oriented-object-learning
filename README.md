@@ -1,6 +1,7 @@
 Repository for my review of PHP Oriented Object
 ===============================================
 The objective of this repository is to review the POO in PHP.
+This is based on Grafikart formation with few modifications.
 
 ### 01 - The basics
 We'll define the objets in POO, and how can we'll work with that. (In progress)

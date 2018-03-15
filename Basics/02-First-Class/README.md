@@ -14,3 +14,9 @@ Best practice :
 - See the [PSR-2](https://www.php-fig.org/psr/psr-2/) to see how respect code style
 
 To instanciate an object from the class, use the key word : **new** (look at index.php to view how to do)
+
+<- [Preview chapter - Definition](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/01-Definition)
+
+[Next chapter - Properties and Methods scope](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/03-Scoped) ->
+
+[Back to summary of basics](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics)
