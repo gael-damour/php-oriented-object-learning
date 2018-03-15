@@ -1,8 +1,8 @@
 01 - The basics
 =================
 
-1. Definition [ x ]
-2. First class [  ]
+1. [Definition](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/01-Definition) [ x ]
+2. [First class](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/02-First-Class) [ x ]
 3. Scope [  ]
 4. Example [  ]
 5. PHPDocs [  ]
