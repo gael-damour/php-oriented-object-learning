@@ -17,6 +17,6 @@ To instanciate an object from the class, use the key word : **new** (look at ind
 
 <- [Preview chapter - Definition](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/01-Definition)
 
-[Next chapter - Properties and Methods scope](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/03-Scoped) ->
+[Next chapter - Properties and Methods scope](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/03-Scope) ->
 
 [Back to summary of basics](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics)
