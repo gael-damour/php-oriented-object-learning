@@ -1,7 +1,8 @@
-04 - PhpDocs
+05 - PhpDocs
 ===============================
 
-Example to generate input form with name and value.
+Allows to add documentation for IDE autocompletion and documentation generators.
+For that, we add comments with a specific format.
 
 <- [Preview chapter - Example](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/04-Example)
 
