@@ -9,7 +9,7 @@
 6. [Property and Methods Statics](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/06-Properties-and-Methods-Statics) [ x ]
 7. [Inheritance](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/07-Inheritance) [ x ]
 8. [Example 2](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/08-Example2) [  ]
-9. Autoloading [  ]
-10. Namespaces [  ]
+9. [Autoloading](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/09-Autoloading) [ x ]
+10. [Namespaces](https://github.com/gael-damour/php-oriented-object-learning/tree/master/Basics/10-Namespaces) [  ]
 
 [Back to main summary](https://github.com/gael-damour/php-oriented-object-learning)
